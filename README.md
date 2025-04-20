@@ -1,2 +1,2 @@
-# MAP_Exp_10
+# MAP
 Basic E-commerce Website with PWA
